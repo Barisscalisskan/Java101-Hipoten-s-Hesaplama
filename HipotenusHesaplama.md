@@ -1,4 +1,4 @@
-//Hipotenüs Hesaplayan Program
+# Hipotenüs Hesaplayan Program
 
 import java.util.Scanner;
 
